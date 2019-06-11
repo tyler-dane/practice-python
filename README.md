@@ -1,2 +1,2 @@
 # practice-python
-Data structures and algorithms implemented in Java for practice
+Data structures and algorithms implemented in Python for practice
