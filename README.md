@@ -12,3 +12,4 @@ Probably best to use asyncio or threading, since setting up processing more reso
 
 ### CPU Bound
 Use multi-processing
+Data structures and algorithms implemented in Python for practice
